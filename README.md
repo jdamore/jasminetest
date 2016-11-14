@@ -4,4 +4,3 @@ Run npm install and open menu/index.html in Safari.
 
 You should see this:
 ![Alt text](/example.png?raw=true "Example")
-
