@@ -1,0 +1,13 @@
+{
+  "name": "jasminetest",
+  "version": "1.0.0",
+  "description": "a test project for jasmine-jquery",
+  "repository": "https://github.com/jdamore/jasminetest",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.5.2",
+    "jasmine-jquery": "^2.1.1",
+    "jquery": "^3.1.1"
+  }
+}

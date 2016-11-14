@@ -1,0 +1,19 @@
+body {
+	font-family: arial;
+}
+
+#example {
+	width: 100%;
+	background-color: #efefef;
+	padding: 10px 0 0 10px;
+}
+
+.menu 
+{
+	color: green;
+}
+
+.hide 
+{
+	display: none;
+}
